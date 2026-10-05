@@ -1,0 +1,22 @@
+#card{
+    background-color: rgb(232, 54, 54);
+    border: 10px solid rgb(85, 0, 0);
+
+    width: 500px;
+    /* Colocando padding: 50px é aplicado 50px de padding em todas as direções */
+    padding: 30px 20px 20px 75px;
+
+}
+#pavlova{
+    width: 400px;
+    height: 350px;
+    border: 10px solid rgb(85, 0, 0);
+}
+
+p{
+    width: 400px;
+}
+
+h2{
+    width: 400px;
+}

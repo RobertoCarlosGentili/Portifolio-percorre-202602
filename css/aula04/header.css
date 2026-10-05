@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Silkscreen:wght@400;700&display=swap');
+
+
+
+body{
+    background-color: rgba(0, 0, 0, 0.882);
+}
+#nav-header{
+    background-color: rgb(164, 29, 94);
+    display: flex;
+    justify-content: space-between;}
+#logo{
+    height: 50px;
+    margin: 0px 10px 0px 10px
+}
+#fotoperfil{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 5px 10px 5px 10px;
+}
+#usuario{
+    display: flex;
+    margin: 0px 10px 0px 0px;
+    
+}
+
+a{
+    font-family: "Fredericka the Great", serif;
+    padding: 0px 10px 0px 0px;
+    text-decoration: none;
+}
+#nome-usuario{
+    font-family: "Silkscreen", sans-serif;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+footer{
+    background-color: rgb(164, 29, 94);
+    height: 250px;
+}
+#direitos{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+#nav-footer{
+    
+}
